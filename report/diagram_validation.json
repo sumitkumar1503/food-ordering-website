@@ -1,0 +1,143 @@
+{
+  "status": "PASS",
+  "diagram_count": 15,
+  "total_nodes": 129,
+  "total_directed_arrows": 135,
+  "diagrams": [
+    {
+      "id": "01_system_context",
+      "title": "System Context Diagram",
+      "node_count": 6,
+      "arrow_count": 6,
+      "valid": true,
+      "rule": "Every directed arrow source and target exists; arrowhead points from first node to second node.",
+      "file": "diagrams\\01_system_context.png"
+    },
+    {
+      "id": "02_layered_architecture",
+      "title": "Layered Application Architecture",
+      "node_count": 8,
+      "arrow_count": 10,
+      "valid": true,
+      "rule": "Every directed arrow source and target exists; arrowhead points from first node to second node.",
+      "file": "diagrams\\02_layered_architecture.png"
+    },
+    {
+      "id": "03_customer_use_cases",
+      "title": "Customer Use-Case Diagram",
+      "node_count": 8,
+      "arrow_count": 10,
+      "valid": true,
+      "rule": "Every directed arrow source and target exists; arrowhead points from first node to second node.",
+      "file": "diagrams\\03_customer_use_cases.png"
+    },
+    {
+      "id": "04_staff_use_cases",
+      "title": "Role-Based Staff Use Cases",
+      "node_count": 10,
+      "arrow_count": 9,
+      "valid": true,
+      "rule": "Every directed arrow source and target exists; arrowhead points from first node to second node.",
+      "file": "diagrams\\04_staff_use_cases.png"
+    },
+    {
+      "id": "05_dfd_level_0",
+      "title": "Data Flow Diagram - Level 0",
+      "node_count": 8,
+      "arrow_count": 10,
+      "valid": true,
+      "rule": "Every directed arrow source and target exists; arrowhead points from first node to second node.",
+      "file": "diagrams\\05_dfd_level_0.png"
+    },
+    {
+      "id": "06_order_dfd_level_1",
+      "title": "Order Processing DFD - Level 1",
+      "node_count": 9,
+      "arrow_count": 8,
+      "valid": true,
+      "rule": "Every directed arrow source and target exists; arrowhead points from first node to second node.",
+      "file": "diagrams\\06_order_dfd_level_1.png"
+    },
+    {
+      "id": "07_er_diagram",
+      "title": "Entity Relationship Diagram",
+      "node_count": 13,
+      "arrow_count": 14,
+      "valid": true,
+      "rule": "Every directed arrow source and target exists; arrowhead points from first node to second node.",
+      "file": "diagrams\\07_er_diagram.png"
+    },
+    {
+      "id": "08_login_sequence",
+      "title": "Login Sequence",
+      "node_count": 7,
+      "arrow_count": 8,
+      "valid": true,
+      "rule": "Every directed arrow source and target exists; arrowhead points from first node to second node.",
+      "file": "diagrams\\08_login_sequence.png"
+    },
+    {
+      "id": "09_checkout_sequence",
+      "title": "Checkout and Order Creation Sequence",
+      "node_count": 9,
+      "arrow_count": 9,
+      "valid": true,
+      "rule": "Every directed arrow source and target exists; arrowhead points from first node to second node.",
+      "file": "diagrams\\09_checkout_sequence.png"
+    },
+    {
+      "id": "10_order_state",
+      "title": "Order Status State Machine",
+      "node_count": 7,
+      "arrow_count": 7,
+      "valid": true,
+      "rule": "Every directed arrow source and target exists; arrowhead points from first node to second node.",
+      "file": "diagrams\\10_order_state.png"
+    },
+    {
+      "id": "11_deployment",
+      "title": "Local Deployment Diagram",
+      "node_count": 7,
+      "arrow_count": 6,
+      "valid": true,
+      "rule": "Every directed arrow source and target exists; arrowhead points from first node to second node.",
+      "file": "diagrams\\11_deployment.png"
+    },
+    {
+      "id": "12_module_dependency",
+      "title": "Module Dependency Diagram",
+      "node_count": 9,
+      "arrow_count": 10,
+      "valid": true,
+      "rule": "Every directed arrow source and target exists; arrowhead points from first node to second node.",
+      "file": "diagrams\\12_module_dependency.png"
+    },
+    {
+      "id": "13_security_flow",
+      "title": "Request Security Validation Flow",
+      "node_count": 10,
+      "arrow_count": 11,
+      "valid": true,
+      "rule": "Every directed arrow source and target exists; arrowhead points from first node to second node.",
+      "file": "diagrams\\13_security_flow.png"
+    },
+    {
+      "id": "14_navigation",
+      "title": "Application Navigation Structure",
+      "node_count": 10,
+      "arrow_count": 10,
+      "valid": true,
+      "rule": "Every directed arrow source and target exists; arrowhead points from first node to second node.",
+      "file": "diagrams\\14_navigation.png"
+    },
+    {
+      "id": "15_test_pipeline",
+      "title": "Verification and Test Pipeline",
+      "node_count": 8,
+      "arrow_count": 7,
+      "valid": true,
+      "rule": "Every directed arrow source and target exists; arrowhead points from first node to second node.",
+      "file": "diagrams\\15_test_pipeline.png"
+    }
+  ]
+}

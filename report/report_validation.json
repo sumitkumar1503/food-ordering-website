@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "report": "Cafe_Food_Ordering_System_Project_Report.docx",
+  "rendered_pages_microsoft_word": 86,
+  "minimum_required_pages": 50,
+  "word_count_microsoft_word": 12502,
+  "paragraph_count": 638,
+  "table_count": 17,
+  "embedded_media_count": 15,
+  "validated_diagram_count": 15,
+  "validated_node_count": 129,
+  "validated_directed_arrow_count": 135,
+  "docx_zip_integrity": "PASS",
+  "diagram_endpoint_rule": "Every arrow source and target exists; arrowhead points from declared source to declared target."
+}
